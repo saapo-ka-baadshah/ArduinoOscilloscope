@@ -10,7 +10,7 @@ But when it comes to **Linux**, with immense efforts one can find only a few opt
 
 ---
 ## Prerequisite
-- **An Arduino Clone** (Currently only arduinos with Specific Serial Descriptions are suppored)
+- **An Arduino Clone** (Currently only arduinos with Specific Serial Descriptions are supported)
 - **Python 3.x.x**
 - **Creativity to help this project grow**
 
