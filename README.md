@@ -3,7 +3,7 @@ For many developments an Oscilloscope is much needed. And when it comes to prici
 
 We have a lot of options with **the Microsoft Windows** which can make the Arduino solve the purpose by displaying input signals on your computer. 
 
-But when it comes to **Linux**, one with immense efforts one can find only a few options which may or may not work on every machine. 
+But when it comes to **Linux**, with immense efforts one can find only a few options which may or may not work on every machine. 
 
 **So here's a solution for this. Arduino Oscilloscope.**
 
