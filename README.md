@@ -19,6 +19,8 @@ But when it comes to **Linux**, with immense efforts one can find only a few opt
 ## Flash following Firmware on your device: 
 Framework Used: Arduino (For the sake of simplicity)
 
+Use A0 pin only with following code.
+
 Flash following code on your MCU:
 ``` c++
 
