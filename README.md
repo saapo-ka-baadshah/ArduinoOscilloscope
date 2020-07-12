@@ -16,7 +16,7 @@ But when it comes to **Linux**, one with immense efforts one can find only a few
 
 ---
 
-## First Install the following Firmware: 
+## Flash following Firmware on your device: 
 Framework Used: Arduino (For the sake of simplicity)
 
 Flash following code on your MCU:
