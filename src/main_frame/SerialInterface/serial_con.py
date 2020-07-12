@@ -2,7 +2,7 @@ import serial
 import threading
 import time
 
-def connectTo(ser_interface, baud_rate):
+def connectTo(ser_interface, baud_rate=115200):
     try:
         ser_obj = serial.Serial(str(ser_interface.device), baud_rate)
         ser_obj.flush()

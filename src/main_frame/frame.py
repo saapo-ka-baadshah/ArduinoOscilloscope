@@ -91,7 +91,7 @@ class App(threading.Thread):
 
     def establish_serial_communication(self):
         interface = getArduinoDevice()
-        self.ser_obj = connectTo(interface, 115200)
+        self.ser_obj = connectTo(interface, baud_rate=115200)
         self.device_connected = True
         self.text.configure(text=str(interface.manufacturer)+"  CONNECTED!      ")
         self.dump_button = Button(self.root, text="START", command=self.start_dumping)
